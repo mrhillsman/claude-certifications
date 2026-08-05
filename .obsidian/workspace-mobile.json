@@ -4,30 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1e3f50146ad995bb",
+        "id": "ed50777df37e3fc0",
         "type": "tabs",
         "children": [
           {
-            "id": "cbe168d7e8272253",
+            "id": "12b4ae2caba85254",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "certified-associate-foundations/module02/notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "notes"
-            }
-          },
-          {
-            "id": "7d20d2221cc6f4ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "certified-associate-foundations/module04/notes.md",
+                "file": "certified-associate-foundations/module05/notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -35,8 +21,7 @@
               "title": "notes"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -52,7 +37,9 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical",
-            "autoReveal": false
+            "autoReveal": false,
+            "showSearch": false,
+            "searchQuery": ""
           },
           "icon": "lucide-folder-closed",
           "title": "Files"
@@ -127,7 +114,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "certified-associate-foundations/module04/notes.md",
+            "file": "certified-associate-foundations/module05/notes.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -181,11 +168,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "7d20d2221cc6f4ad",
+  "active": "12b4ae2caba85254",
   "lastOpenFiles": [
-    "certified-associate-foundations/module03/notes.md",
     "certified-associate-foundations/module04/notes.md",
+    "certified-associate-foundations/module05/notes.md",
     "certified-associate-foundations/module02/notes.md",
+    "certified-associate-foundations/module03/notes.md",
     "certified-associate-foundations/module01/notes.md",
     "certified-associate-foundations/module03",
     "certified-associate-foundations/module02",

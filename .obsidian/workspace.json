@@ -11,12 +11,14 @@
             "id": "c425e499a0efc736",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "certified-developer-foundations/claude_certified_developer_foundations_exam_guide.pdf"
+                "file": "certified-associate-foundations/module04/notes.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "claude_certified_developer_foundations_exam_guide"
+              "icon": "lucide-file",
+              "title": "notes"
             }
           }
         ]
@@ -185,6 +187,8 @@
   },
   "active": "c425e499a0efc736",
   "lastOpenFiles": [
+    "certified-associate-foundations/module05/notes.md",
+    "certified-developer-foundations/claude_certified_developer_foundations_exam_guide.pdf",
     "LICENSE",
     "certified-associate-foundations/module04/notes.md",
     "certified-associate-foundations/claude_certified_associate_foundations_exam_guide.pdf",
