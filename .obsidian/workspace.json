@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "certified-associate-foundations/module04/notes.md",
+                "file": "certified-associate-foundations/module08/notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -187,10 +187,13 @@
   },
   "active": "c425e499a0efc736",
   "lastOpenFiles": [
+    "certified-associate-foundations/module07/notes.md",
+    "certified-associate-foundations/module08/notes.md",
+    "certified-associate-foundations/module06/notes.md",
     "certified-associate-foundations/module05/notes.md",
+    "certified-associate-foundations/module04/notes.md",
     "certified-developer-foundations/claude_certified_developer_foundations_exam_guide.pdf",
     "LICENSE",
-    "certified-associate-foundations/module04/notes.md",
     "certified-associate-foundations/claude_certified_associate_foundations_exam_guide.pdf",
     "certified-associate-foundations/module02/notes.md"
   ]

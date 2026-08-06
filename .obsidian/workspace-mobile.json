@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "certified-associate-foundations/module05/notes.md",
+                "file": "certified-associate-foundations/module06/notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -114,7 +114,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "certified-associate-foundations/module05/notes.md",
+            "file": "certified-associate-foundations/module06/notes.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -168,10 +168,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "12b4ae2caba85254",
+  "active": "fa4e370da2e2f209",
   "lastOpenFiles": [
-    "certified-associate-foundations/module04/notes.md",
     "certified-associate-foundations/module05/notes.md",
+    "certified-associate-foundations/module06/notes.md",
+    "certified-associate-foundations/module04/notes.md",
     "certified-associate-foundations/module02/notes.md",
     "certified-associate-foundations/module03/notes.md",
     "certified-associate-foundations/module01/notes.md",
